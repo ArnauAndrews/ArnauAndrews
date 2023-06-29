@@ -15,6 +15,4 @@ Throughout my Master's program, I pursued various subjects that have strengthene
   
 These subjects have provided me with a solid foundation in utilizing big data tools, applying statistical concepts, managing and analyzing data, implementing advanced data mining and predictive techniques, employing various machine learning algorithms, and effectively managing data-driven projects.
 
-Combining my academic background with my practical project experience, including the projects you can find in my Data-Analytics_Ubiqum repository, I am ready to contribute my skills and knowledge to your data analytics or data science team.
-
 Let's connect and discuss how my expertise in these subjects can bring value to your organization's data-driven initiatives!
