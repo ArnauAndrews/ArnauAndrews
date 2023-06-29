@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-I'm Arnau Andrews, a recent graduate with a degree in International Business and Marketing, and a Master's Degree in Big Data and Data Science. I'm currently exploring opportunities in the field of data analytics and data science.
+I'm Arnau Andrews, a recent graduate with a degree in International Business and Marketing, and a Master's Degree in Big Data and Data Science at the University of Barcelona. I'm currently exploring opportunities in the field of data analytics and data science.
 
-Throughout my Master's program, I delved into various subjects that have strengthened my expertise in the field. Here the subjects pursued:
+Throughout my Master's program, I pursued various subjects that have strengthened my expertise in the field. Here are the subjects:
 
 - **Big Data Tools**
 - Fundamentals of **Statistics**
